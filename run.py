@@ -197,12 +197,19 @@ def sha256_sum(path):
     return h.hexdigest()
 
 def _format_resource(prepath, filepath):
-    path = "{0}/{1}".format(prepath, os.path.basename(filepath))
+    filename = os.path.basename(filepath)
+    path = "{0}/{1}".format(prepath, filename)
+    country_code = "ALL"
+    if prepath == "citizenlab-test-lists":
+        cc = filename.split(".")[0]
+        if len(cc) == 2:
+            country_code = cc.upper()
     sha256 = sha256_sum(filepath)
     return {
         "path": path,
         "sha256": sha256,
-        "version": 0
+        "version": 0,
+        "country_code": country_code
     }
 
 
@@ -252,10 +259,6 @@ def _update_test_lists():
     repo.remotes.origin.pull()
 
 def update_repo(version):
-    # git commit -a -m 'changes'
-    # git push -u origin master
-    # create a release
-    # upload the assets
     print("Updating the repo")
     repo = git.Repo(CWD)
     repo.git.add("assets/")

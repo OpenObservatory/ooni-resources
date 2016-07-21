@@ -1,368 +1,441 @@
 {
   "resources": [
     {
+      "country_code": "ALL", 
       "path": "maxmind-geoip/GeoIPASNum.dat.gz", 
       "sha256": "959f33333169ac68795a83b9fc8cbca03556a8caaf6249bdcdaa74cd336e12d2", 
       "version": 0
     }, 
     {
+      "country_code": "ALL", 
       "path": "maxmind-geoip/GeoIP.dat.gz", 
       "sha256": "87ea7255887af3bf12adecaf9f8d4abc6d7065155f8923feed9748ab8541370f", 
       "version": 0
     }, 
     {
+      "country_code": "ALL", 
       "path": "citizenlab-test-lists/00-LEGEND-category_codes.csv", 
       "sha256": "26f5e64f58a49e0d8c565e09ffa3eb704b4d2268d12e4adc11f54611796bee14", 
       "version": 0
     }, 
     {
+      "country_code": "ALL", 
       "path": "citizenlab-test-lists/00-LEGEND-country_codes.csv", 
       "sha256": "3491af1ac0f87bc9d67eb894eedf33d37aa4456e082289c3d9275453b91bda06", 
       "version": 0
     }, 
     {
+      "country_code": "ALL", 
       "path": "citizenlab-test-lists/00-proposed-category_codes.csv", 
       "sha256": "3e62929674e7ed245585f33bf48ea2872731a8e63d2cb54ac8c03016ed4d6872", 
       "version": 0
     }, 
     {
+      "country_code": "AE", 
       "path": "citizenlab-test-lists/ae.csv", 
       "sha256": "84306a9e301fa57772efcf7e4d86e737e140574efa7307c24d435b11868c901e", 
-      "version": 1
+      "version": 0
     }, 
     {
+      "country_code": "AM", 
       "path": "citizenlab-test-lists/am.csv", 
       "sha256": "3735dc07c65555b9add077214d9cf67c3034a170fcb731f6dc66d812a666d6e5", 
       "version": 0
     }, 
     {
+      "country_code": "AT", 
+      "path": "citizenlab-test-lists/at.csv", 
+      "sha256": "34e6d55c7e41708b4793499c89a91bda1ca60d9a2ef3ed83d82bfad3bc2048f0", 
+      "version": 0
+    }, 
+    {
+      "country_code": "AZ", 
       "path": "citizenlab-test-lists/az.csv", 
       "sha256": "eba4a9459132b7990b9f9f5a81ad78cc3903fb7c617598ebbc0c02e04b20e387", 
       "version": 0
     }, 
     {
+      "country_code": "BD", 
       "path": "citizenlab-test-lists/bd.csv", 
       "sha256": "c0f592720cc7dd180205ce3095871f4828b7acb32d7a3c8109d51b2acaaacca1", 
       "version": 0
     }, 
     {
+      "country_code": "BH", 
       "path": "citizenlab-test-lists/bh.csv", 
       "sha256": "20007f0e9d97356e8190738ebb2efe8c476a611a870a39bedbd5aa7160fd8776", 
       "version": 0
     }, 
     {
+      "country_code": "BR", 
       "path": "citizenlab-test-lists/br.csv", 
       "sha256": "e3859bc887c4882b249f66632a07387fb68ea81861cca6b089d631a9d410a14a", 
-      "version": 1
+      "version": 0
     }, 
     {
+      "country_code": "BY", 
       "path": "citizenlab-test-lists/by.csv", 
       "sha256": "5132ebfb89c90f25fb03087e681e3dc363efd7a70ee624f23fe69637f661dd42", 
       "version": 0
     }, 
     {
+      "country_code": "CA", 
       "path": "citizenlab-test-lists/ca.csv", 
       "sha256": "9589366bc49dfaf79c155270e4e697257535876ebb4bffe78e949e47a197c370", 
       "version": 0
     }, 
     {
+      "country_code": "ALL", 
       "path": "citizenlab-test-lists/cis.csv", 
       "sha256": "ceb7f5454fe24e81b7725ab4d6ac88f3a0a9002b26613fa920531138bb81c17c", 
       "version": 0
     }, 
     {
+      "country_code": "CN", 
       "path": "citizenlab-test-lists/cn.csv", 
       "sha256": "6eb41b99549e453e7e483a7c0bd7ed85c7a3ed243869b054ab4cde6c4e3d9be2", 
       "version": 0
     }, 
     {
+      "country_code": "CO", 
       "path": "citizenlab-test-lists/co.csv", 
       "sha256": "93256c1fc8d7ac7aaee3a9e600d2a63f520379288b6c0a309c4714e6b6208282", 
       "version": 0
     }, 
     {
+      "country_code": "CU", 
       "path": "citizenlab-test-lists/cu.csv", 
       "sha256": "79754194ac4fbde291b57f2bf32e221cb81328c859894a346b3c68c6f61e6217", 
       "version": 0
     }, 
     {
+      "country_code": "DZ", 
       "path": "citizenlab-test-lists/dz.csv", 
       "sha256": "13640e1149fff73040868275de2e3f237fd171e6da0462b36afa71ed36639993", 
       "version": 0
     }, 
     {
+      "country_code": "EG", 
       "path": "citizenlab-test-lists/eg.csv", 
       "sha256": "b2ad1c26d280e4bdef2f8eee7f1a96bb6c8de129b8301f1c82d1c900106ce983", 
       "version": 0
     }, 
     {
+      "country_code": "ET", 
       "path": "citizenlab-test-lists/et.csv", 
       "sha256": "346c2b80f2430d50b8ecdc1bfcef045ef6d70d223aee4c93500f7e36c1109434", 
       "version": 0
     }, 
     {
+      "country_code": "GE", 
       "path": "citizenlab-test-lists/ge.csv", 
       "sha256": "338958b37de07eb1d3ce4c18a95cd80ec1e90073cc7feccd270e1d51f732a95a", 
       "version": 0
     }, 
     {
+      "country_code": "ALL", 
       "path": "citizenlab-test-lists/global.csv", 
       "sha256": "5344c636ead232ed80687f43df024fcee65bd8177af5d3ea1e6459b34389b2de", 
-      "version": 1
+      "version": 0
     }, 
     {
+      "country_code": "GT", 
       "path": "citizenlab-test-lists/gt.csv", 
       "sha256": "891ca7a398f6f89be269d1f4435b59abf1db9706e555b5fe2c7872aaf9d77d01", 
       "version": 0
     }, 
     {
+      "country_code": "GY", 
       "path": "citizenlab-test-lists/gy.csv", 
       "sha256": "15c7eabe30cf2bc0bf7dd51e8accf87b4bb652c280e86a1186d27a45e14488af", 
       "version": 0
     }, 
     {
+      "country_code": "ID", 
       "path": "citizenlab-test-lists/id.csv", 
       "sha256": "290c3211fb147910c6d3ab3d6eb6bea8984fdb7d99915f9a4f5c63c530478f94", 
       "version": 0
     }, 
     {
+      "country_code": "IN", 
       "path": "citizenlab-test-lists/in.csv", 
       "sha256": "cd7d2a0d295c6ee1106d2d6e2e321459739348870525664a070ee4f8ba708b24", 
-      "version": 1
+      "version": 0
     }, 
     {
+      "country_code": "IQ", 
       "path": "citizenlab-test-lists/iq.csv", 
       "sha256": "71233b5447d51ab9602e0d92c4bd5517222cc5a0db4844c51d5171ef00e06e01", 
       "version": 0
     }, 
     {
+      "country_code": "IR", 
       "path": "citizenlab-test-lists/ir.csv", 
       "sha256": "86b5241658d00ca962b95803c582090cc95a7c70f2ecf15ca0f8dd3c53070f6f", 
-      "version": 1
+      "version": 0
     }, 
     {
+      "country_code": "JO", 
       "path": "citizenlab-test-lists/jo.csv", 
       "sha256": "cee07baae54e9c2b89680b7e921a21f3dfc397fbbd5df9755430d0d5558cefc0", 
       "version": 0
     }, 
     {
+      "country_code": "KE", 
       "path": "citizenlab-test-lists/ke.csv", 
       "sha256": "dd8585f09f6fa1f09ba7f0ad8601e63bfd4ec41d90582d8f832a02ea3b930d31", 
       "version": 0
     }, 
     {
+      "country_code": "KG", 
       "path": "citizenlab-test-lists/kg.csv", 
       "sha256": "e676cece21e0754ec3647de168a993f9d9ef51437bf0f082a6d4b9d469eda25e", 
       "version": 0
     }, 
     {
+      "country_code": "KR", 
       "path": "citizenlab-test-lists/kr.csv", 
       "sha256": "2e5a7d942e14cafc962be53a1bdca2ade99e2c0aa4e07d4d5c36bfa305e2f5a2", 
       "version": 0
     }, 
     {
+      "country_code": "KW", 
       "path": "citizenlab-test-lists/kw.csv", 
       "sha256": "18dab19533f5d9beb26c93ee8acf4cc7e82593560a2ec585f8b3be2985ac0f08", 
       "version": 0
     }, 
     {
+      "country_code": "KZ", 
       "path": "citizenlab-test-lists/kz.csv", 
       "sha256": "28ea39d4e489653bb5c36bbb7d28db31729facfc1abc6a02c16368a0820c7208", 
       "version": 0
     }, 
     {
+      "country_code": "LB", 
       "path": "citizenlab-test-lists/lb.csv", 
       "sha256": "991fad5619803f056b8bcf18178bb0cf2a7c68549b76e6ce02f69c6f023015cd", 
       "version": 0
     }, 
     {
+      "country_code": "LY", 
       "path": "citizenlab-test-lists/ly.csv", 
       "sha256": "21545679e35ddc6c881e44337a49d059554249a8623cb542794fb7920f6277e9", 
       "version": 0
     }, 
     {
+      "country_code": "MA", 
       "path": "citizenlab-test-lists/ma.csv", 
       "sha256": "ea3ff164f833f00f29a61ce1649afccc23c345b986b0c348924d3a21ee76a4b8", 
       "version": 0
     }, 
     {
+      "country_code": "MD", 
       "path": "citizenlab-test-lists/md.csv", 
       "sha256": "df9850eb405621c40963a9429474f1d8207b0475f41ac0d351b36c29c05e0f62", 
       "version": 0
     }, 
     {
+      "country_code": "MM", 
       "path": "citizenlab-test-lists/mm.csv", 
       "sha256": "49642600b6155fcd80431cce2a272c9265b50172560dab839767fab7597025f1", 
       "version": 0
     }, 
     {
+      "country_code": "MR", 
       "path": "citizenlab-test-lists/mr.csv", 
       "sha256": "8eb854867500d9a9f38fb69fc96615bb8e5be99d3d3ce246aad59566051afce5", 
       "version": 0
     }, 
     {
+      "country_code": "MX", 
       "path": "citizenlab-test-lists/mx.csv", 
       "sha256": "8172c95c72d7880a345c82262cb3b6d6befbb9912d2dbb542a02b331b14f5e52", 
       "version": 0
     }, 
     {
+      "country_code": "MY", 
       "path": "citizenlab-test-lists/my.csv", 
       "sha256": "63d8108f847851c9f6e60dba50da7df851bc6215e130e1311892016722455840", 
-      "version": 1
+      "version": 0
     }, 
     {
+      "country_code": "NF", 
       "path": "citizenlab-test-lists/nf.csv", 
       "sha256": "7b06a513671fed4b9d9d110bcdd9fe394824e0ddaa4cde0a6dab57d75a152e0e", 
       "version": 0
     }, 
     {
+      "country_code": "NG", 
       "path": "citizenlab-test-lists/ng.csv", 
       "sha256": "6d00a5885d6758c600a275c8b94eeb11752e844929ee0c58ea94bc2af6a2ea19", 
       "version": 0
     }, 
     {
+      "country_code": "NI", 
       "path": "citizenlab-test-lists/ni.csv", 
       "sha256": "2277b2fa097075c1d63412ec20bd9d05c642979796af300ac42db2bae031750b", 
       "version": 0
     }, 
     {
+      "country_code": "NP", 
       "path": "citizenlab-test-lists/np.csv", 
       "sha256": "0370fbcee9c1d5cec002a40cb8fb0fdc0de070e647353aa49dc75afac9fc2171", 
       "version": 0
     }, 
     {
+      "country_code": "OM", 
       "path": "citizenlab-test-lists/om.csv", 
       "sha256": "f4f24f6cf7662574eb3e0e04d5fca93f17ae0452abfbfb9add668f847ed3c632", 
       "version": 0
     }, 
     {
+      "country_code": "PE", 
       "path": "citizenlab-test-lists/pe.csv", 
       "sha256": "9ceff5ec87e01e9165636c5fae6935d21749a696acb6a653dd7bb15b9cf01443", 
       "version": 0
     }, 
     {
+      "country_code": "PH", 
       "path": "citizenlab-test-lists/ph.csv", 
       "sha256": "f31ba304b23ba7ad0ee7822544d454c83d7a303ef5ba2d24d5ae2d8d840ca964", 
       "version": 0
     }, 
     {
+      "country_code": "PK", 
       "path": "citizenlab-test-lists/pk.csv", 
       "sha256": "387ffef0d0ad492ea17a8231e3bde0b65f8a2939ed58895599d201acb40d8583", 
       "version": 0
     }, 
     {
+      "country_code": "PS", 
       "path": "citizenlab-test-lists/ps.csv", 
       "sha256": "a3bb322c9e3ebedbc59ce425f644de250ffe75163d3afa9ada2d4ede2766527b", 
       "version": 0
     }, 
     {
+      "country_code": "QA", 
       "path": "citizenlab-test-lists/qa.csv", 
       "sha256": "431d8ee41d1ca5be7b0e4d94bb96a876d7c60a85bf01cc189feab54d7c9c0904", 
       "version": 0
     }, 
     {
+      "country_code": "RU", 
       "path": "citizenlab-test-lists/ru.csv", 
       "sha256": "24a852cbb75b04a5922025896e4cfdd223eb127c5732fc5438fe04b77f3e84ae", 
       "version": 0
     }, 
     {
+      "country_code": "SA", 
       "path": "citizenlab-test-lists/sa.csv", 
       "sha256": "0f10bd5819438c755115b00588a16b9d88d736e41c3b686bf8004a9f3f5318b7", 
       "version": 0
     }, 
     {
+      "country_code": "SD", 
       "path": "citizenlab-test-lists/sd.csv", 
       "sha256": "20aa819cd7bcba665d5bd6a2935b3202aec9f5009623d3dc37eb4221c7aa762d", 
       "version": 0
     }, 
     {
+      "country_code": "SG", 
       "path": "citizenlab-test-lists/sg.csv", 
       "sha256": "31cfc1781c796066196fbd284e683f3fed7d6e396bc78576e33bc5e6e7db998b", 
       "version": 0
     }, 
     {
+      "country_code": "SO", 
       "path": "citizenlab-test-lists/so.csv", 
       "sha256": "4f405eff8db82fc5f929af8b5a3204820c21feab50e02a712d7896a90881eef7", 
       "version": 0
     }, 
     {
+      "country_code": "SY", 
       "path": "citizenlab-test-lists/sy.csv", 
       "sha256": "894bdfc2b62085c5b2f05554a892408aefd032346be2539aeeb7e0c8e0d654bd", 
       "version": 0
     }, 
     {
+      "country_code": "TD", 
       "path": "citizenlab-test-lists/td.csv", 
       "sha256": "70035d61f58cde1de5acb2762ba6c7b24ba02ada7c216355948064d1bf178ae7", 
       "version": 0
     }, 
     {
+      "country_code": "TH", 
       "path": "citizenlab-test-lists/th.csv", 
       "sha256": "40f7ec31fdb407ae82e3c91f8765bdbf033644cbfd3f05bc4f61cab5c3dce3ee", 
       "version": 0
     }, 
     {
+      "country_code": "TJ", 
       "path": "citizenlab-test-lists/tj.csv", 
       "sha256": "35c5ca0d5797bef57d0ad5de5c7d793e19e8c48e84aac0d3816cf4a920e688db", 
       "version": 0
     }, 
     {
+      "country_code": "TM", 
       "path": "citizenlab-test-lists/tm.csv", 
       "sha256": "a39a341e671e19bbec4de425f3463297b19cfeabd4c57dc544d385810978d9eb", 
       "version": 0
     }, 
     {
+      "country_code": "TN", 
       "path": "citizenlab-test-lists/tn.csv", 
       "sha256": "779c3a7af139cabbb42b5216f3b6c82c7ff733d503e171865b325d4a7f5342c8", 
       "version": 0
     }, 
     {
+      "country_code": "TR", 
       "path": "citizenlab-test-lists/tr.csv", 
       "sha256": "9155497d60c807424d725f8ccb7302a681e6c02341b90262e1001c8dbfc058fc", 
       "version": 0
     }, 
     {
+      "country_code": "TZ", 
       "path": "citizenlab-test-lists/tz.csv", 
       "sha256": "c251957b5d336f551684552e5de443afbdebb9f95b54cc87e7edef98f61110ac", 
       "version": 0
     }, 
     {
+      "country_code": "UA", 
       "path": "citizenlab-test-lists/ua.csv", 
       "sha256": "28c1bbfc6e09b87492261b5de16149b7429c6088e0a0b0992fb131057f587de3", 
-      "version": 1
+      "version": 0
     }, 
     {
+      "country_code": "UG", 
       "path": "citizenlab-test-lists/ug.csv", 
       "sha256": "e5f85d535dd7d55de4491b370d677aafd42738fc0462c43a3fdd1bbadde10155", 
       "version": 0
     }, 
     {
+      "country_code": "UZ", 
       "path": "citizenlab-test-lists/uz.csv", 
       "sha256": "3334fe8e022445583914c35c60a30ae51f97d15cd520ed5b153c537d037ca55b", 
       "version": 0
     }, 
     {
+      "country_code": "VE", 
       "path": "citizenlab-test-lists/ve.csv", 
       "sha256": "2b23048431bbfca5b6b2a69ec0b993a4e36d3f5279700de6fba19902c86eca0b", 
       "version": 0
     }, 
     {
+      "country_code": "VN", 
       "path": "citizenlab-test-lists/vn.csv", 
       "sha256": "1df57dadddfbb9f3131c5868089e7c3e1c12e8788204dd08f07fa8c7418044fc", 
       "version": 0
     }, 
     {
+      "country_code": "YE", 
       "path": "citizenlab-test-lists/ye.csv", 
       "sha256": "ca6e6a473b0d1222efcc85b9f845418b0bf5cc221b0a68a6f077187e1324e461", 
       "version": 0
     }, 
     {
+      "country_code": "ZM", 
       "path": "citizenlab-test-lists/zm.csv", 
       "sha256": "abdd5e935f011e31569563fc7f039c237e2033f191dca44df84650b7cb3958b2", 
-      "version": 0
-    }, 
-    {
-      "path": "citizenlab-test-lists/at.csv", 
-      "sha256": "34e6d55c7e41708b4793499c89a91bda1ca60d9a2ef3ed83d82bfad3bc2048f0", 
       "version": 0
     }
   ], 
