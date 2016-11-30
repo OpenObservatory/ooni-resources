@@ -477,9 +477,9 @@
     {
       "country_code": "ALL", 
       "path": "tor-bridges/tor-bridges-ip-port.csv", 
-      "sha256": "bfac0bc5db9ac167d12490e3ca3720a5e94a5ac1e2390c6acac035300b04c0a4", 
-      "version": 0
-    },
+      "sha256": "da80ade299b5b9500e862276ec51e058ab5722e1d7573c0f4302fb194ea347dc", 
+      "version": 1
+    }, 
     {
       "country_code": "GH", 
       "path": "citizenlab-test-lists/gh.csv", 
@@ -487,5 +487,5 @@
       "version": 0
     }
   ], 
-  "version": 5
+  "version": 6
 }
