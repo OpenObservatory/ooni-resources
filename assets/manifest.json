@@ -237,8 +237,8 @@
     {
       "country_code": "MM", 
       "path": "citizenlab-test-lists/mm.csv", 
-      "sha256": "1ec5f6bbfe991716ae016afcecda402843ac2b0d854360549ac9c96de39598f3", 
-      "version": 1
+      "sha256": "82ed19513ff3d9a7f16dce8c8b70c082e32de97659041ec62f37d03733d49ef0", 
+      "version": 2
     }, 
     {
       "country_code": "MR", 
@@ -315,8 +315,8 @@
     {
       "country_code": "QA", 
       "path": "citizenlab-test-lists/qa.csv", 
-      "sha256": "431d8ee41d1ca5be7b0e4d94bb96a876d7c60a85bf01cc189feab54d7c9c0904", 
-      "version": 0
+      "sha256": "3d75d21f691b1a05a0401978289b776a0ec7208a125eb32e7ff7ad46d393dc99", 
+      "version": 1
     }, 
     {
       "country_code": "RU", 
@@ -363,8 +363,8 @@
     {
       "country_code": "TH", 
       "path": "citizenlab-test-lists/th.csv", 
-      "sha256": "81b7dcff2c5293c38b9542b27adc5216ae5e70b5aa6680378e910ac853eb1cd8", 
-      "version": 2
+      "sha256": "a10c9fd1d9ac64373cc3d9a5281a793d874f3795b05dcbc7823c7c1f947abfe1", 
+      "version": 3
     }, 
     {
       "country_code": "TJ", 
@@ -447,8 +447,8 @@
     {
       "country_code": "CL", 
       "path": "citizenlab-test-lists/cl.csv", 
-      "sha256": "1819ce6b3102d192ea94a815aff52986082d07cdb7cee6ea8f05cea90828ee7b", 
-      "version": 0
+      "sha256": "badde30cca81c4c8afb63ab3cbcf1e4712fab1e94abde281a44540ee3a09a8ce", 
+      "version": 1
     }, 
     {
       "country_code": "KH", 
@@ -487,5 +487,5 @@
       "version": 0
     }
   ], 
-  "version": 6
+  "version": 7
 }
