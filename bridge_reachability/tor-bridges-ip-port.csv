@@ -109,7 +109,7 @@ host,port,nickname,protocol
 109.105.109.163,47779,ndnop0,obfs3
 131.252.210.150,8080,pdxtorbridge01,fte
 128.105.214.161,8080,wisctorbridge01,fte
-128.105.214.162,8080,wisctorbridge02,fte 
+128.105.214.162,8080,wisctorbridge02,fte
 128.105.214.163,8080,wisctorbridge03,fte
 128.31.0.39,9101,moria1,or_port
 128.31.0.39,9131,moria1,dir_port
