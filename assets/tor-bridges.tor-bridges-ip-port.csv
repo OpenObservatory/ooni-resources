@@ -103,6 +103,10 @@ host,port,nickname,protocol
 192.95.36.142,2200,Lisbeth,ssh
 85.17.30.79,22,NX01,ssh
 85.17.30.79,443,NX01,obfs4
+38.229.1.77,80,cymrubridge30,obfs4
+38.229.1.78,80,cymrubridge31,obfs4
+38.229.33.82,80,cymrubridge32,obfs4
+38.229.33.83,80,cymrubridge33,obfs4
 169.229.59.74,31493,Unnamed,obfs3
 169.229.59.75,46328,Unnamed,obfs3
 109.105.109.163,38980,ndnop0,obfs3
