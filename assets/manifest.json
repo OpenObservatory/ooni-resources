@@ -471,8 +471,8 @@
     {
       "country_code": "ALL", 
       "path": "tor-bridges/tor-bridges-ip-port.csv", 
-      "sha256": "a705b12f6f1a1a038d1244f796c0644989346e2194e6afa386cae55e991d12fd", 
-      "version": 2
+      "sha256": "666544ea93861afc4603a7a1120a30d2d7ec477103376e72124fc3121379b2d3", 
+      "version": 3
     }, 
     {
       "country_code": "GH", 
@@ -501,9 +501,15 @@
     {
       "country_code": "PL", 
       "path": "citizenlab-test-lists/pl.csv", 
-      "sha256": "b513cb1957ea5d27936ee52795940dbb1fd9d40de3b45655a9dd4bbc66150e4d", 
+      "sha256": "8194cda60b75cd2fde7151235c0dff7eb14338aa1d38fbc5b0b03899d1d866e4", 
+      "version": 1
+    }, 
+    {
+      "country_code": "AR", 
+      "path": "citizenlab-test-lists/ar.csv", 
+      "sha256": "74866f8f137495681c742fe4b3b62790f845aed775ea6d09d553b3289084c8f0", 
       "version": 0
     }
   ], 
-  "version": 12
+  "version": 13
 }
