@@ -1,6 +1,12 @@
 This repository is used to host the URL lists and resources used by ooni-probe
 and measurement-kit and to handle the update of them.
 
+## Contribution notes
+
+When suggesting changes do not edit things inside of `assets/` as those are
+automatically generated from https://github.com/citizenlab/test-lists or
+`bridge_reachability/*`.
+
 ## Maintainer usage
 
 If this is the first time you are running this you may have to initialize your
