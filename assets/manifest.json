@@ -111,8 +111,8 @@
     {
       "country_code": "EG", 
       "path": "citizenlab-test-lists/eg.csv", 
-      "sha256": "c7bc57cf201e1a665dbbe107f5efb35fb6ae5785d08150d0f504740ac46f06b8", 
-      "version": 3
+      "sha256": "c16f853c5a400857dc4f87ade915275065182af6ed31041d30de4d02a5c2f68a", 
+      "version": 4
     }, 
     {
       "country_code": "ET", 
@@ -411,8 +411,8 @@
     {
       "country_code": "VE", 
       "path": "citizenlab-test-lists/ve.csv", 
-      "sha256": "7a3f258faa87fb352e604e92f12f54cadbdb9eee3f7f367d1505ac2adfded32a", 
-      "version": 3
+      "sha256": "c4ba2ee93fcaf0301f8086218d297bac2c17c30ae661801b565367e2195c7c17", 
+      "version": 4
     }, 
     {
       "country_code": "VN", 
@@ -511,5 +511,5 @@
       "version": 0
     }
   ], 
-  "version": 14
+  "version": 15
 }
