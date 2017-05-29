@@ -3,6 +3,8 @@ http://1pissedarab.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://3wtlia.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://4egypt.tadwen.com,NEWS,News Media,2014-04-15,citizenlab,
 http://al-araby.com,NEWS,News Media,2014-04-15,citizenlab,
+http://www.alborsanews.com,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
+http://www.elborsanews.com,NEWS,News Media,2017-05-28,ADEF,not yet blocked. Alias of blocked site alborsanews.com
 http://alwafd.org,NEWS,News Media,2014-04-15,citizenlab,
 http://anaga3an.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://angryarab.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
@@ -25,6 +27,8 @@ http://bokra-a7la.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://cairofreeze.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.cairoportal.com,NEWS,News Media,2017-05-24,ADEF,blocked as of date added
 http://changeegypt.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
+http://dailynewsegypt.com,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
+http://thedailynewsegypt.com,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
 http://digressing.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://dostor.org,NEWS,News Media,2014-04-15,citizenlab,
 http://egyptiancitizen.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
@@ -56,15 +60,19 @@ http://misrdigital.blogspirit.com,NEWS,News Media,2014-04-15,citizenlab,
 http://misrdigital.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://missmabrouk.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://mostafa.foolab.org,NEWS,News Media,2014-04-15,citizenlab,
+http://www.moheet.com,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
 http://rassd.com,NEWS,News Media,2014-04-15,citizenlab,
 http://samy.attahawy.net,NEWS,News Media,2014-04-15,citizenlab,
 http://seekingfreedom.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
+http://www.sinaihr.org,HUMR,Human Rights Issues,2017-05-28,ADEF,blocked as of date added
 http://tadwen.com,NEWS,News Media,2014-04-15,citizenlab,
 https://textsecure-service-ca.whispersystems.org:80,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:4433,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:8443,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
 https://whispersystems-textsecure-attachments.s3.amazonaws.com,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal desktop for attachments
 http://theegyptblog.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
+https://torproject.org,ANON,Anonymization and circumvention tools,2017-05-27,ADEF,blocked as of date added
+https://bridges.torproject.org,ANON,Anonymization and circumvention tools,2017-05-28,ADEF,blocked as of date added
 http://tortureinegypt.net,POLR,Political Criticism,2014-04-15,citizenlab,
 https://twitter.com/ikhwanweb,NEWS,News Media,2014-04-15,citizenlab,
 https://twitter.com/muhammadmorsi,NEWS,News Media,2014-04-15,citizenlab,
@@ -162,3 +170,11 @@ http://www.yahosein.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://yme1.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://zamakan.gharbeia.org,NEWS,News Media,2014-04-15,citizenlab,
 http://zanatyland.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
+http://hamas.ps/ar/,NEWS,News Media,2017-05-24,OONI,blocked as of date added
+https://www.egyptwindow.net,NEWS,News Media,2017-05-24,OONI,blocked as of date added
+https://almesryoon.com,NEWS,News Media,2017-05-24,OONI,blocked as of date added
+http://www.al-watan.com,NEWS,News Media,2017-05-24,OONI,blocked as of date added
+http://www.alarab.qa,NEWS,News Media,2017-05-24,OONI,blocked as of date added
+http://www.raya.com/portal,NEWS,News Media,2017-05-24,OONI,blocked as of date added
+https://hasamegypt.com,NEWS,News Media,2017-05-24,OONI,blocked as of date added
+http://www.aswatmasriya.com,NEWS,News Media,2017-05-24,OONI,blocked as of date added
