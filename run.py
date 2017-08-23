@@ -90,6 +90,7 @@ def _upload_asset(upload_url, name, content_type, data):
                       headers=headers,
                       data=data)
     if r.status_code != 201:
+        print(r.text)
         raise Exception("Could not upload asset")
     return r.json()
 
