@@ -76,6 +76,7 @@ def _create_latest_version():
     return r.json()["id"]
 
 def _upload_asset(upload_url, name, content_type, data):
+    RETRIES = 3
     headers = {
         "Content-Type": content_type
     }
@@ -85,12 +86,19 @@ def _upload_asset(upload_url, name, content_type, data):
     }
     print("Uploading asset {0}".format(params["name"]))
     print("to: {0}".format(upload_url))
-    r = requests.post(upload_url,
-                      params=params,
-                      headers=headers,
-                      data=data)
-    if r.status_code != 201:
-        print(r.text)
+    success = False
+    for i in range(RETRIES):
+        r = requests.post(upload_url,
+                          params=params,
+                          headers=headers,
+                          data=data)
+        if r.status_code != 201:
+            print("FAILED TO UPLOAD ASSET (attempt %d/%d)" % (i+1, RETRIES))
+            print(r.text)
+            continue
+        success = True
+        break
+    if success is False:
         raise Exception("Could not upload asset")
     return r.json()
 
