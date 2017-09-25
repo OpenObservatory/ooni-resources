@@ -119,6 +119,8 @@ host,port,nickname,protocol
 37.218.245.1,80,dimple,obfs4
 37.218.245.1,443,dimple,obfs4
 37.218.245.1,44769,dimple,obfs4
+85.31.186.98,443,griinchux,obfs4
+85.31.186.26,443,zipfelmuetze,obfs4
 169.229.59.74,31493,Unnamed,obfs3
 169.229.59.75,46328,Unnamed,obfs3
 109.105.109.163,38980,ndnop0,obfs3
