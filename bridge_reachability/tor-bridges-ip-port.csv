@@ -147,3 +147,5 @@ host,port,nickname,protocol
 154.35.175.225,80,Faravahar,dir_port
 199.254.238.52,443,longclaw,or_port
 199.254.238.52,80,longclaw,dir_port
+199.58.81.140,443,longclaw,or_port
+199.58.81.140,80,longclaw,dir_port
