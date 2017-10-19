@@ -149,3 +149,5 @@ host,port,nickname,protocol
 199.254.238.52,80,longclaw,dir_port
 199.58.81.140,443,longclaw,or_port
 199.58.81.140,80,longclaw,dir_port
+204.13.164.118,443,bastet,or_port
+204.13.164.118,80,bastet,dir_port
