@@ -151,3 +151,4 @@ host,port,nickname,protocol
 199.58.81.140,80,longclaw,dir_port
 204.13.164.118,443,bastet,or_port
 204.13.164.118,80,bastet,dir_port
+216.252.162.21,46089,noisebridge-01,obfs4
