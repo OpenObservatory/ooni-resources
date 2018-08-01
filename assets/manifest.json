@@ -435,8 +435,8 @@
     {
       "country_code": "ZW", 
       "path": "citizenlab-test-lists/zw.csv", 
-      "sha256": "a31f52a2aba11a7995a8e05978efb2b373ec18b3b86c77712f0dbf08a16a6bb5", 
-      "version": 5
+      "sha256": "5c388e8670207b7f15ea996babb55d44f70f3218ec7b50b34dc29e871629e482", 
+      "version": 6
     }, 
     {
       "country_code": "CL", 
@@ -631,5 +631,5 @@
       "version": 0
     }
   ], 
-  "version": 24
+  "version": 25
 }
