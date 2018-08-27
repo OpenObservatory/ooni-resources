@@ -113,6 +113,10 @@ host,port,nickname,protocol
 128.105.214.163,8080,wisctorbridge03,fte
 128.31.0.39,9101,moria1,or_port
 128.31.0.39,9131,moria1,dir_port
+128.31.0.34,9101,moria1,or_port
+128.31.0.34,9131,moria1,dir_port
+66.111.2.131,9001,Serge,or_port
+66.111.2.131,9030,Serge,dir_port
 86.59.21.38,443,tor26,or_port
 86.59.21.38,80,tor26,dir_port
 194.109.206.212,443,dizum,or_port
