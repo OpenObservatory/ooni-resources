@@ -122,6 +122,7 @@ host,port,nickname,protocol
 85.31.186.98,443,griinchux,obfs4
 85.31.186.26,443,zipfelmuetze,obfs4
 216.252.162.21,46089,noisebridge01,obfs4
+144.217.20.138,80,smallerRichard,obfs4
 169.229.59.74,31493,Unnamed,obfs3
 169.229.59.75,46328,Unnamed,obfs3
 109.105.109.163,38980,ndnop0,obfs3
