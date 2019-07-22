@@ -122,6 +122,7 @@ host,port,nickname,protocol
 85.31.186.98,443,griinchux,obfs4
 85.31.186.26,443,zipfelmuetze,obfs4
 216.252.162.21,46089,noisebridge01,obfs4
+144.217.20.138,80,smallerRichard,obfs4
 169.229.59.74,31493,Unnamed,obfs3
 169.229.59.75,46328,Unnamed,obfs3
 109.105.109.163,38980,ndnop0,obfs3
@@ -132,6 +133,10 @@ host,port,nickname,protocol
 128.105.214.163,8080,wisctorbridge03,fte
 128.31.0.39,9101,moria1,or_port
 128.31.0.39,9131,moria1,dir_port
+128.31.0.34,9101,moria1,or_port
+128.31.0.34,9131,moria1,dir_port
+66.111.2.131,9001,Serge,or_port
+66.111.2.131,9030,Serge,dir_port
 86.59.21.38,443,tor26,or_port
 86.59.21.38,80,tor26,dir_port
 194.109.206.212,443,dizum,or_port
