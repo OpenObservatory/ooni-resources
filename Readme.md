@@ -1,6 +1,8 @@
 This repository is used to host the URL lists and resources used by ooni-probe
 and measurement-kit and to handle the update of them.
 
+The new location for Tor bridge test targets is the `ooni/sysadmin` repo file: https://github.com/ooni/sysadmin/blob/master/ansible/roles/probe-services/templates/tor_targets.json
+
 ## Contribution notes
 
 When suggesting changes do not edit things inside of `assets/` as those are
